@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  name: ulimit
+  description: Manage ulimit configuration
+  author: infrastructure@eresearch.unimelb.edu.au
+  license: APL
+  min_ansible_version: 2.6
+  platforms:
+    - name: EL
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+  galaxy_tags: []
+dependencies: []
